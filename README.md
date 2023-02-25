@@ -3,7 +3,8 @@
 
 ## Code creates:
 
-TBC
+- **ou-create.tf** --> Create an OU
+- **ou-list.tf** --> List of Existing OUs
 
 ## How to use this code:
 
