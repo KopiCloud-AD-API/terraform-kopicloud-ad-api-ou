@@ -1,5 +1,5 @@
 ## Manage AD OUs in Microsoft AD using the KopiCloud AD API Terraform Provider
-[![Terraform](https://img.shields.io/badge/terraform-v1.3+-blue.svg)](https://www.terraform.io/downloads.html)
+[![Terraform](https://img.shields.io/badge/terraform-v1.3+-blue.svg)](https://www.terraform.io/downloads.html) https://img.shields.io/badge/KopiCloud__AD__API-v1.0-blueviolet
 
 ## Code creates:
 
