@@ -15,3 +15,4 @@ output "OUTPUT_created_ou" {
   description = "Created OU"
   value       = resource.kopicloud_ou.test
 }
+
