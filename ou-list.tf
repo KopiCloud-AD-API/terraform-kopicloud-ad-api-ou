@@ -10,4 +10,3 @@ output "OUTPUT_list_ou" {
   description = "List of Existing OUs"
   value       = data.kopicloud_ou_list.test
 }
-
